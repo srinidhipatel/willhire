@@ -1,0 +1,7 @@
+{
+"_AutomationRunning" : "mob",
+"AutomationRunning" : "web",
+"Environment" : "prod",
+"Browser" : "ch",
+"url":"https://abccorp.willhire.co/"
+}

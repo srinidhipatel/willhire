@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 51.455 s <<< FAILURE! - in TestSuite
+signUpUser(com.automation.web.assignment)  Time elapsed: 8.464 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.automation.utilities.seleniumUtilities$1@7e20f4e3 (tried for 5 second(s) with 500 milliseconds interval)
+	at com.automation.web.assignment.signUpUser(assignment.java:31)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='signUpThankU_Block']/h3"}
+  (Session info: chrome=84.0.4147.125)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HANUMA-O6S338O', ip: '192.168.174.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\Users\hanuma\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49686}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 089f106586dd5d2761301e512a9f5e4d
+*** Element info: {Using=xpath, value=//div[@class='signUpThankU_Block']/h3}
+	at com.automation.web.assignment.signUpUser(assignment.java:31)
+

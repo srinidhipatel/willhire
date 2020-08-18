@@ -1,0 +1,41 @@
+2020-08-18 23:10:54 INFO  commonUtilities 99 - Directory is deleted : E:\workspace\willhire\target\surefire-reports\screenshots
+2020-08-18 23:10:54 INFO  seleniumUtilities 40 - Launching Browser
+2020-08-18 23:11:08 INFO  TestListener 23 - Test Suite started!
+2020-08-18 23:11:08 INFO  TestListener 35 - signUpErrorValidation started!
+2020-08-18 23:11:09 INFO  seleniumUtilities 76 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ae60b3f947577a9737d744f37478c61a)] -> id: signup_form-firstname]
+2020-08-18 23:11:09 INFO  seleniumUtilities 79 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (ae60b3f947577a9737d744f37478c61a)] -> id: errusername]
+2020-08-18 23:11:10 INFO  seleniumUtilities 76 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ae60b3f947577a9737d744f37478c61a)] -> id: errusername]
+2020-08-18 23:11:10 INFO  seleniumUtilities 197 - A valid first name, last name is required
+2020-08-18 23:11:10 INFO  seleniumUtilities 197 - A valid email ID is required
+2020-08-18 23:11:10 INFO  seleniumUtilities 197 - Password must have 8 character or longer, at least 1 uppercase letter, 1 number and 1 symbol (like !@#$%^&*)
+2020-08-18 23:11:10 INFO  TestListener 42 - signUpErrorValidation passed!
+2020-08-18 23:11:10 INFO  TestListener 35 - signUpUser started!
+2020-08-18 23:11:12 INFO  seleniumUtilities 76 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ae60b3f947577a9737d744f37478c61a)] -> id: signup_form-firstname]
+2020-08-18 23:11:16 INFO  po_signup 52 - Test@12345
+2020-08-18 23:11:22 INFO  TestListener 59 - signUpUser failed!
+2020-08-18 23:11:22 INFO  TestListener 35 - loginToAccount started!
+2020-08-18 23:11:24 INFO  seleniumUtilities 76 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ae60b3f947577a9737d744f37478c61a)] -> id: loginButton]
+2020-08-18 23:11:25 INFO  seleniumUtilities 76 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ae60b3f947577a9737d744f37478c61a)] -> xpath: //span[contains(text(),'Forgot Password?')]]
+2020-08-18 23:11:52 INFO  seleniumUtilities 76 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ae60b3f947577a9737d744f37478c61a)] -> xpath: //div[@class='kt-header__topbar-user']]
+2020-08-18 23:11:52 INFO  TestListener 42 - loginToAccount passed!
+2020-08-18 23:11:52 INFO  TestListener 29 - Test Suite is ending!
+2020-08-18 23:14:04 INFO  seleniumUtilities 40 - Launching Browser
+2020-08-18 23:14:17 INFO  TestListener 23 - Test Suite started!
+2020-08-18 23:14:17 INFO  TestListener 35 - signUpErrorValidation started!
+2020-08-18 23:14:17 INFO  seleniumUtilities 76 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (089f106586dd5d2761301e512a9f5e4d)] -> id: signup_form-firstname]
+2020-08-18 23:14:18 INFO  seleniumUtilities 79 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (089f106586dd5d2761301e512a9f5e4d)] -> id: errusername]
+2020-08-18 23:14:18 INFO  seleniumUtilities 76 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (089f106586dd5d2761301e512a9f5e4d)] -> id: errusername]
+2020-08-18 23:14:18 INFO  seleniumUtilities 197 - A valid first name, last name is required
+2020-08-18 23:14:18 INFO  seleniumUtilities 197 - A valid email ID is required
+2020-08-18 23:14:18 INFO  seleniumUtilities 197 - Password must have 8 character or longer, at least 1 uppercase letter, 1 number and 1 symbol (like !@#$%^&*)
+2020-08-18 23:14:18 INFO  TestListener 42 - signUpErrorValidation passed!
+2020-08-18 23:14:19 INFO  TestListener 35 - signUpUser started!
+2020-08-18 23:14:20 INFO  seleniumUtilities 76 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (089f106586dd5d2761301e512a9f5e4d)] -> id: signup_form-firstname]
+2020-08-18 23:14:21 INFO  po_signup 51 - Test@12345
+2020-08-18 23:14:27 INFO  TestListener 59 - signUpUser failed!
+2020-08-18 23:14:27 INFO  TestListener 35 - loginToAccount started!
+2020-08-18 23:14:29 INFO  seleniumUtilities 76 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (089f106586dd5d2761301e512a9f5e4d)] -> id: loginButton]
+2020-08-18 23:14:30 INFO  seleniumUtilities 76 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (089f106586dd5d2761301e512a9f5e4d)] -> xpath: //span[contains(text(),'Forgot Password?')]]
+2020-08-18 23:14:51 INFO  seleniumUtilities 76 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (089f106586dd5d2761301e512a9f5e4d)] -> xpath: //div[@class='kt-header__topbar-user']]
+2020-08-18 23:14:51 INFO  TestListener 42 - loginToAccount passed!
+2020-08-18 23:14:52 INFO  TestListener 29 - Test Suite is ending!

@@ -1,0 +1,10 @@
+{
+"appiumServerIP" : "0.0.0.0:4723",
+"deviceToRun" : "android",
+"_deviceToRun" : "ios",
+"emulator" : false,
+"deviceName": "HGAG9KW9",
+"deviceBrowser" : false,
+"appPackageName":"",
+"appActivity":""
+}
